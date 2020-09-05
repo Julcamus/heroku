@@ -1,0 +1,202 @@
+td{
+  background: white ; 
+}
+
+th{
+  background: white;
+  border: 1px solid white ;
+  
+}
+
+.action{
+  color:#28A745;
+  padding-left: 5px
+}
+
+.action:hover{
+  color:red;
+  cursor: pointer ; 
+}
+
+.tete{
+	border:none;
+}
+
+.confirm_abonnement_button{
+	background: #ffc107 ;
+	border-color:#ffc107;
+}
+
+
+.badge-danger{
+	padding: 3px;
+}
+
+.abonnement_en_cours{
+
+	font-weight: bold;
+	color:#57392c ;
+}
+
+#exemple1{
+
+	border-top: 2px solid #28a745;
+}
+
+#exemple2{
+
+	border-top: 4px solid #007bff;
+}
+
+#exemple2_container::-webkit-scrollbar {
+	width: 5px;
+	height: 5px;
+}
+
+
+
+#exemple2_container::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+#exemple2_container::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+#exemple2_container::-webkit-scrollbar-thumb
+{
+	background-color: #007bff;
+	
+	background-image: -webkit-gradient(linear, 0 0, 0 100%,
+	color-stop(.5, rgba(255, 255, 255, .2)),
+	color-stop(.5, transparent), to(transparent));
+}
+
+
+
+#exemple3{
+
+	border-top: 4px solid #dc3545;
+}
+
+#exemple3_container::-webkit-scrollbar {
+	width: 5px;
+	height: 5px;
+}
+
+
+
+#exemple3_container::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+#exemple3_container::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+#exemple3_container::-webkit-scrollbar-thumb
+{
+	background-color: #dc3545;
+	
+	background-image: -webkit-gradient(linear, 0 0, 0 100%,
+	color-stop(.5, rgba(255, 255, 255, .2)),
+	color-stop(.5, transparent), to(transparent));
+}
+
+
+
+.deverouiller{
+	color: green ; 
+	font-size:17px;
+	cursor : pointer ;  
+}
+
+
+
+
+
+.decompte_info{
+	font-size:14px;
+}
+
+#envoie_message_button{
+
+	width:100%;
+	background-color:#dc3545;
+	font-size:16px;
+	border-color:#dc3545
+}
+
+.select2{
+	width: 100% ; 
+}
+
+#editor{
+	width: 100%;
+	height: 200px;
+	font-size: 14px;
+	line-height: 18px;
+	border: 1px solid #dddddd;
+	padding: 10px;
+}
+
+.abonnement_button{
+
+	width:100%;
+	background-color:#FFC107;
+	font-size:16px;
+	border-color:#FFC107;
+}
+
+.abonnement_button:hover{
+	width:100%;
+	background-color:#FFC107;
+	font-size:16px;
+	border-color:#FFC107;
+}
+
+#abonnement_button_container{
+	width: 100%;
+	background: white
+}
+
+.form-control{
+	width: 100% ; 
+}
+
+.paginate_button {
+	background: black;
+}
+
+#enregistre_payement_block{
+	background:#17a2b8 ;
+}
+
+#enregistre_payement_block ,.card-title , button{
+	color:white;
+}
+
+#enregistrement_payement_submit_button{
+	width:100%;
+	background-color:#17a2b8;
+	font-size:16px;
+	border-color:#17a2b8 ; 
+}
+
+.card-footer{
+	width: 100%;
+	background: white;
+
+}
+
+#autre_abonnement{
+	display: none ; 
+}

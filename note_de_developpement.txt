@@ -1,0 +1,5 @@
+---Au début de chaque nouvelle page , je dois : 
+	. Enrégistré le nom de la 
+	
+-- Je dois revoir le crud de suppression d'unc cllient afin d'y ajouter le crud qu permet de supprimer les information
+dans la table des dettes

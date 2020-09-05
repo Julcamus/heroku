@@ -1,0 +1,123 @@
+#save_button{
+	width:100% ;
+	background-color:indigo ;  
+}
+
+
+#close_modif_header,.modal-title{
+	color:white ; 
+}
+
+#modif_header{
+	background: indigo ; 
+}
+
+
+.element{
+	font-weight:bold ;
+
+
+}
+
+.element_result{
+	text-align: right ;
+
+}
+.each_row{
+	border-bottom:1px solid silver ;
+	padding:5px;
+
+}
+
+.modifier{
+	color:indigo  ;
+	cursor : pointer ; 
+}
+
+.modifier:hover{
+	text-decoration:underline ; 
+}
+
+.ok{
+	color:#28A745 ; 
+}
+
+.ok:hover{
+	text-decoration:underline;
+	cursor:pointer ; 
+}
+
+.modif-input{
+	border-color:indigo ;
+	border-radius:5px;
+}
+
+.action1{
+	color:indigo ; 
+
+}
+
+.action2{
+	color:red ; 
+}
+.action3{
+	color:blue ; 
+}
+
+
+.fas{
+	position:relative;
+	padding-left:15px;
+	cursor:pointer;
+}
+
+
+
+#afficher_header{
+	background: blue ; 
+}
+
+#fermer_afficher_modal{
+	background:blue ; 
+	width:100% ; 
+}
+
+.supprimer_button{
+	width:40% ; 
+	background:red;
+	border-color:red;
+}
+
+#ignorer_supprimer_button{
+	width:40% ; 
+	background:indigo;
+	border-color:indigo;
+
+}
+
+#supprimer_header{
+	background: red ;
+
+}
+
+#suppression_message{
+	text-align:center;
+}
+
+.page-link{
+	background: 
+}
+
+
+.modifier_click{
+
+	color:indigo  ;
+	cursor : pointer ; 
+}
+
+.ok_societe{
+	color:indigo  ;
+	cursor : pointer ; 
+}
+
+
